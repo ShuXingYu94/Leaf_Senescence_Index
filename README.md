@@ -1,6 +1,8 @@
 # Leaf Damage Evaluation Macro
 This repository contains a Fiji macro designed to evaluate leaf damage caused by salt stress treatment, a critical part of my PhD research. The macro processes images of leaves to determine the total leaf area and the damaged (senesced) area, outputting the data in a tabular format. This data can be further analyzed and visualized using tools like R or Python.
 
+To date,with some modification in the paremeters, this macro can also be used for evaluating Leaf Senescence Index (LSI), Greenness Index (GI) and Leaf Area Index (LAI) etc.
+
 ## Repository Contents
 - [ ] **Standalone Macro**: Process a single photo of a leaf.
 - [x] **Batch Processing Macro**: Process a list of files, each containing a single photo of a leaf.
@@ -10,7 +12,7 @@ This repository contains a Fiji macro designed to evaluate leaf damage caused by
 **An example of the analyzed figure.**
 
 <picture>
-  <img alt="Sample fig" src="https://github.com/ShuXingYu94/Leaf_Senescence_Index/blob/b8b8a82c4828309d388a9ae28f2d8614aeef309b/Sample%20image/Sample%20fig.jpg?raw=true "Title"">
+  <img alt="Sample fig" src="https://github.com/ShuXingYu94/Leaf_Senescence_Index/blob/b8b8a82c4828309d388a9ae28f2d8614aeef309b/Sample%20image/Sample%20fig.jpg?raw=true">
 </picture>
 
 
