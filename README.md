@@ -8,7 +8,7 @@ To date,with some modification in the paremeters, this macro can also be used fo
 - [x] **Batch Processing Macro**: Process a list of files, each containing a single photo of a leaf.
 - [ ] **R Visualization Script**: Visualize the proportion of damaged (senesced) areas.
 
-## Example output
+## Example output figures
 **An example of the analyzed figure.**
 
 <picture>
