@@ -8,8 +8,7 @@ This repository contains a Fiji macro designed to evaluate leaf damage caused by
 
 ## Example output
 **An example of the analyzed figure.**
-
-![Alt text](https://github.com/ShuXingYu94/Leaf_Senescence_Index/blob/b8b8a82c4828309d388a9ae28f2d8614aeef309b/Sample%20image/Sample%20fig.jpg?raw=true "Title")
+[![](https://github.com/ShuXingYu94/Leaf_Senescence_Index/blob/b8b8a82c4828309d388a9ae28f2d8614aeef309b/Sample%20image/Sample%20fig.jpg?raw=true "Title")](#)
 
 ## Usage Instructions
 ### Prerequisites
