@@ -11,7 +11,7 @@ In this repository, I will give a standalone version of this macro proccessing a
 
 ### An example of the analyzed figure.
 
-![Alt text](./Sample image/Sample fig.jpg?raw=true "Title")
+![Alt text](https://github.com/ShuXingYu94/Leaf_Senescence_Index/blob/b8b8a82c4828309d388a9ae28f2d8614aeef309b/Sample%20image/Sample%20fig.jpg?raw=true "Title")
 
 # Requirements
 - [ ] To procceed, Fiji (ImageJ) needs to be installed: URL:https://imagej.net/ij/download.html.
