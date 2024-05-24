@@ -11,7 +11,7 @@ In this repository, I will give a standalone version of this macro proccessing a
 
 ### An example of the analyzed figure.
 
-![Alt text](Sample image/Sample fig.jpg?raw=true "Title")
+![Alt text](./Sample image/Sample fig.jpg?raw=true "Title")
 
 # Requirements
 - [ ] To procceed, Fiji (ImageJ) needs to be installed: URL:https://imagej.net/ij/download.html.
