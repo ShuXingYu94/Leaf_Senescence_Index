@@ -52,7 +52,5 @@ The output from the macro includes:
 
 This data is saved in a table format, which can be used for further analysis and visualization.
 
----
-
 ## Note
 If you encounter any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
