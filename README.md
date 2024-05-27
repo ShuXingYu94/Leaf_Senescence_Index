@@ -22,8 +22,9 @@ To date,with some modification in the paremeters, this macro can also be used fo
 - **R**: For data visualization, R needs to be installed. You can download it [here](https://www.r-project.org/).
 
 ### Photo Guidelines
-Photos should be taken in a consistent environment (e.g., same background).
+- Photos should be taken in a consistent environment (e.g., same background).
 It is highly recommended to use a dedicated camera instead of a phone to ensure unified image quality.
+- In the example above, three $1(cm)^2$
 
 ### Parameters
 *TBC.*
