@@ -24,7 +24,7 @@ To date,with some modification in the paremeters, this macro can also be used fo
 ### Photo Guidelines
 - Photos should be taken in a consistent environment (e.g., same background).
 It is highly recommended to use a dedicated camera instead of a phone to ensure unified image quality.
-- In the example above, three 1 $cm^2$
+- In the example above, three paper with an area of 1 $cm^2$ were used as controls (white, blue and red). This approach is recommended because it allows for precise area calculation and reduces bias associated with manual photography.
 
 ### Parameters
 *TBC.*
